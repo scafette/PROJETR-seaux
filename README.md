@@ -69,6 +69,7 @@ En vu de la taille du bâtiment et de tous les étages, il a fallu calculer le n
 
 Voici le résultat final de nos calculs,
 (peut contenir des erreurs de calculs minimes )
+
 Watts par étage :
 
 SS5 = 31
@@ -99,7 +100,7 @@ Exemples de Listes des équipements :
 9.	Détecteur bris de vitre
 10.	Détecteur d’intrusion
 
-SS5 = 44
+SS5 = 15
 SS4 = 21
 SS3 = 29
 SS2 = 34
@@ -111,6 +112,7 @@ RDC = 130
 4 = 75
 5 = 66
 6 = 47
+TOTAL EQUIPEMENT : 696
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
